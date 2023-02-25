@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+ul{
+  background-color: green;
+  list-style: none;
+}
+li{
+  color: orange;
+  font-size: 28px;
+  display: inline-block;
+margin: 30px;
+}
+h1{
+  text-align: center;
+}
